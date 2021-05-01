@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/word-processor/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/word-processor/static/js/main.0cc0b423.chunk.js",
+    "main.js.map": "/word-processor/static/js/main.0cc0b423.chunk.js.map",
+    "runtime-main.js": "/word-processor/static/js/runtime-main.08ee9fa2.js",
+    "runtime-main.js.map": "/word-processor/static/js/runtime-main.08ee9fa2.js.map",
+    "static/js/2.d5d08cfd.chunk.js": "/word-processor/static/js/2.d5d08cfd.chunk.js",
+    "static/js/2.d5d08cfd.chunk.js.map": "/word-processor/static/js/2.d5d08cfd.chunk.js.map",
+    "static/js/3.191d4ab5.chunk.js": "/word-processor/static/js/3.191d4ab5.chunk.js",
+    "static/js/3.191d4ab5.chunk.js.map": "/word-processor/static/js/3.191d4ab5.chunk.js.map",
+    "index.html": "/word-processor/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/word-processor/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.d5d08cfd.chunk.js.LICENSE.txt": "/word-processor/static/js/2.d5d08cfd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/word-processor/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08ee9fa2.js",
+    "static/js/2.d5d08cfd.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.0cc0b423.chunk.js"
+  ]
+}
