@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/word-processor/static/css/main.2ff322ee.chunk.css",
-    "main.js": "/word-processor/static/js/main.8f428765.chunk.js",
-    "main.js.map": "/word-processor/static/js/main.8f428765.chunk.js.map",
+    "main.js": "/word-processor/static/js/main.fca7accf.chunk.js",
+    "main.js.map": "/word-processor/static/js/main.fca7accf.chunk.js.map",
     "runtime-main.js": "/word-processor/static/js/runtime-main.c8f32b38.js",
     "runtime-main.js.map": "/word-processor/static/js/runtime-main.c8f32b38.js.map",
     "static/css/2.59dee6c0.chunk.css": "/word-processor/static/css/2.59dee6c0.chunk.css",
-    "static/js/2.34ae293c.chunk.js": "/word-processor/static/js/2.34ae293c.chunk.js",
-    "static/js/2.34ae293c.chunk.js.map": "/word-processor/static/js/2.34ae293c.chunk.js.map",
+    "static/js/2.279c3b14.chunk.js": "/word-processor/static/js/2.279c3b14.chunk.js",
+    "static/js/2.279c3b14.chunk.js.map": "/word-processor/static/js/2.279c3b14.chunk.js.map",
     "index.html": "/word-processor/index.html",
     "static/css/2.59dee6c0.chunk.css.map": "/word-processor/static/css/2.59dee6c0.chunk.css.map",
     "static/css/main.2ff322ee.chunk.css.map": "/word-processor/static/css/main.2ff322ee.chunk.css.map",
-    "static/js/2.34ae293c.chunk.js.LICENSE.txt": "/word-processor/static/js/2.34ae293c.chunk.js.LICENSE.txt"
+    "static/js/2.279c3b14.chunk.js.LICENSE.txt": "/word-processor/static/js/2.279c3b14.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c8f32b38.js",
     "static/css/2.59dee6c0.chunk.css",
-    "static/js/2.34ae293c.chunk.js",
+    "static/js/2.279c3b14.chunk.js",
     "static/css/main.2ff322ee.chunk.css",
-    "static/js/main.8f428765.chunk.js"
+    "static/js/main.fca7accf.chunk.js"
   ]
 }
