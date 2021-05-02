@@ -30,6 +30,8 @@ export default function TextEditor() {
     }, []);
 
     useEffect(() => {
+        if (socket == null || quill == null) return;
+
         const handler = (delta, oldDelta, source) => {
             if (source !== 'user') return;
             socket.emit("send-changes", delta);
@@ -39,6 +41,20 @@ export default function TextEditor() {
 
         return () => {
             quill.off('text-change', handler)
+        }
+    }, [socket, quill]);
+
+    useEffect(() => {
+        if (socket == null || quill == null) return;
+
+        const handler = (delta) => {
+            quill.updateContents(delta);
+        };
+
+        socket.on('receive-changes', handler )
+
+        return () => {
+            socket.off('receive-changes', handler)
         }
     }, [socket, quill]);
 
